@@ -1,0 +1,37 @@
+$ uname -a
+
+$ whoami
+
+$ date
+
+$ w
+
+$ ifconfig -a
+
+$ netstat -na
+
+$ fdisk
+
+$ 
+
+$ cat /etc/fstab
+
+$ mount
+
+$ mount -v
+
+$ mount -t nfs
+
+$ mount -t ufs
+
+$ df -h
+
+$ df -m
+
+$ df -k
+
+$ df -t nfs
+
+$ df -t noffs
+
+$ du -sh *
