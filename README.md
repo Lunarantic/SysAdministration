@@ -1,2 +1,6 @@
-# CS615-SysAdmin
-Notes and Codes used in learning System Administration course at Stevens Institute of Technology
+# SysAdministration
+
+Points and Codes from :
+System Administration course at Stevens Institute of Technology
+Internet
+Being a Script-Kiddie
