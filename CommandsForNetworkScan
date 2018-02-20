@@ -1,0 +1,2 @@
+# Simple ping on 24 subnet mask system to know which IP addresses are active
+for x in {0..255}; do ping -c1 "10.0.1."$x | grep 'ttl'; done
